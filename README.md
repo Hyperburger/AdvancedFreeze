@@ -7,8 +7,8 @@ Supported Minecraft versions: <strong>1.8.8, 1.12.2, 1.16.5, 1.17.x</strong>
 <h1>Features</h1>  
 <ul>
   <li>Inventories full customizable</li>  
-  <li>Customizable size</li>  
-  <li>Custom titles</li>  
+  <li>Customizable titles and size</li>  
+  <li>Add how many items you want</li>
   <li>Allows to send to staffers cheater's discord tag or a message through anvil gui</li>  
   <li>Custom configs: lang.yml (messages), gui.yml (inventory), anvilgui.yml (anvil gui), location.yml (freeze/unfreeze locations)</li>  
   <li>You're able to set the freeze location and unfreeze location</li>  
@@ -16,7 +16,7 @@ Supported Minecraft versions: <strong>1.8.8, 1.12.2, 1.16.5, 1.17.x</strong>
   <li>You can set a command in case the player quits</li>
   <li>Sends titles onFreeze to the staffer and onUnfreeze to the target with Packets</li>
   <li>Optimized because it doesn't use PlayerMoveEvent</li>
-  <li>From 400kb to 280kb also with more features)</li>
+  <li>From 400kb to 280kb also with more features</li>
   <li>All the irrelevant and heavy classes are not used</li>
   <li>And a lot of other features, try it!</li>
 </ul>
@@ -39,3 +39,5 @@ Put the plugin inside the plugins folder, it's easy.
 This plugin is also on spigot: <a href="https://www.spigotmc.org/resources/ultimatefreeze-1-17-x-send-discord-tag-with-anvil-input.94589/">Click here!</a>
 It may have some bugs, so please either report them here (open an issue)  
 or contact me on discord: vin27dev#4783
+
+Libraries used: AnvilGUI, SmartInvs and XSeries!
