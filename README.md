@@ -38,6 +38,8 @@ Put the plugin inside the plugins folder, it's easy.
 
 This plugin is also on spigot: <a href="https://www.spigotmc.org/resources/ultimatefreeze-1-17-x-send-discord-tag-with-anvil-input.94589/">Click here!</a>
 It may have some bugs, so please either report them here (open an issue)  
-or contact me on discord: vin27dev#4783
+or contact me on discord: vin27dev#4783.  
+
+<strong>We don't offer support for versions that aren't mentioned above!</strong>
 
 Libraries used: AnvilGUI, SmartInvs and XSeries!
