@@ -1,0 +1,82 @@
+gui:
+  inv-name: "&7You are &cfreezed&7!"
+  rows: 1
+  columns: 9
+  items:
+    Anvil:
+      material: ANVIL
+      row: 0
+      column: 4
+
+      amount: 1
+      isForAnvil: true
+
+      name: "&7Send your discord &ctag&7!"
+      lore:
+        - "&7Click this item to &csend"
+        - "&7your &cdiscord &7tag!"
+    Compass:
+      material: COMPASS
+      row: 0
+      column: 0
+
+      amount: 1
+
+      name: "&7Enter in our &cdiscord &7server!"
+      lore:
+        - "&7You are under cheat &ccontrol&7!"
+        - "&7You must &cjoin &7our discord &cserver&7!"
+    Chest:
+      material: CHEST
+      row: 0
+      column: 8
+
+      amount: 1
+      isForAdmit: true
+      admitCommand: "ban %target%"
+
+      name: "&7Admit you're &ccheating&7!"
+      lore:
+        - "&7If you are &ccheating&7, please &cclick&7!"
+    BlackPane:
+      material: BLACK_STAINED_GLASS_PANE
+      row: 0
+      column: 1
+
+      amount: 1
+      name: "&cPANE"
+    BlackPane2:
+      material: BLACK_STAINED_GLASS_PANE
+      row: 0
+      column: 2
+
+      amount: 1
+      name: "&cPANE"
+    BlackPane3:
+      material: BLACK_STAINED_GLASS_PANE
+      row: 0
+      column: 3
+
+      amount: 1
+      name: "&cPANE"
+    BlackPan4:
+      material: BLACK_STAINED_GLASS_PANE
+      row: 0
+      column: 5
+
+      amount: 1
+      name: "&cPANE"
+    BlackPan5:
+      material: BLACK_STAINED_GLASS_PANE
+      row: 0
+      column: 6
+
+      amount: 1
+      name: "&cPANE"
+    BlackPan6:
+      material: BLACK_STAINED_GLASS_PANE
+      row: 0
+      column: 7
+
+      amount: 1
+      name: "&cPANE"

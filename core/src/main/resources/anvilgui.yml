@@ -1,0 +1,11 @@
+anvil:
+  default-text: "&7Enter your &cdiscord &7tag!"
+  title: "&7Discord &ctag"
+
+  item-mat: PAPER
+  item-amount: 1
+
+  item-name: "&7Please enter your &ctag&7!"
+  item-lore:
+    - "&7You have to &cwrite &7your tag,"
+    - "&7use the &cspace &7above!"

@@ -1,0 +1,51 @@
+lang:
+  prefix: "&cAF &c» "
+  cmd-on-quit: "ban %target%"
+
+  only-players: "&7Only players can execute this &ccommand&7!"
+
+  af-usage:
+    - "&7/freeze &c- &7To &cfreeze &7a player!"
+    - "&7/unfreeze &c- &7To &cunfreeze &7a player!"
+    - "&7/af reload &c- &7To &creload &7config file!"
+    - "&7/af setloc freeze/unfreeze &c- &7To &cset &7freeze/unfreeze &clocation&7!"
+
+  no-perms: "&7You don't have &cenough &7permissions!"
+
+  freeze-usage: "&7Please use &c/freeze <player>&7!"
+  unfreeze-usage: "&7Please use &c/unfreeze <player>&7!"
+
+  not-online: "&7This player is not &conline&7!"
+
+  already-frozen: "&7This player is already &cfrozen&7!"
+  not-frozen: "&7This player is not &cfrozen&7!"
+
+  cant-yourself: "&7You can't freeze/unfreeze &cyourself&7!"
+
+  target-frozen: "&7You have been &cfrozen&7!"
+  frozen-success: "&7You have frozen the player &ccorrectly&7!"
+
+  target-unfrozen: "&7You have been &cunfrozen&7!"
+  unfrozen-success: "&7You have &cunfrozen &7the player successfully!"
+
+  loc-set: "&7Location &cset &7successfully!"
+  loc-not-found: "&7Location was not &cfound&7!"
+
+  discord-sent: "&7The player has sent his &cdiscord &7tag: &c%tag%&7!"
+
+  reload-usage: "&7Please use &c/uf reload&7!"
+  reloaded: "&7Configs &creloaded &7successfully!"
+
+  freeze-titles:
+    title: "&7You have frozen a &cplayer&7,"
+    subTitle: "&7Opened the &cGUI &7for him!"
+    fadeIn: 2
+    stay: 2
+    fadeOut: 2
+
+  unfreeze-target-titles:
+    title: "&7You have been &cunfrozen&7!"
+    subTitle: "&7Enjoy the &cserver&7!"
+    fadeIn: 2
+    stay: 2
+    fadeOut: 2

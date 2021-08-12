@@ -1,0 +1,14 @@
+name: AdvancedFreeze
+version: 2.0
+main: it.vin27dev.advancedfreeze.AdvancedFreezePlugin
+api-version: 1.13
+authors: [vin27dev]
+description: Freeze a player with a GUI
+commands:
+  advancedfreeze:
+    description: Main command of the plugin!
+    aliases: [af]
+  freeze:
+    description: Command to freeze players!
+  unfreeze:
+    description: Command to unfreeze players!
