@@ -8,16 +8,16 @@ Supported Minecraft versions: <strong>1.8.8, 1.12.2, 1.16.5, 1.17.x</strong>
 <ul>
   <li>Inventories full customizable</li>  
   <li>Customizable titles and size</li>  
-  <li>Add how many items you want</li>
+  <li>Add as many items as you want</li>
   <li>Allows to send to staffers cheater's discord tag or a message through anvil gui</li>  
   <li>Custom configs: lang.yml (messages), gui.yml (inventory), anvilgui.yml (anvil gui), location.yml (freeze/unfreeze locations)</li>  
-  <li>You're able to set the freeze location and unfreeze location</li>  
+  <li>Set freeze location and unfreeze location</li>  
   <li>There's also a custom button for admitting (fully customizable)</li>  
-  <li>You can set a command in case the player quits</li>
+  <li>Set a command in case the player quits</li>
   <li>Sends titles onFreeze to the staffer and onUnfreeze to the target with Packets</li>
   <li>Optimized because it doesn't use PlayerMoveEvent</li>
-  <li>From 400kb to 220kb also with more features</li>
-  <li>All the irrelevant and heavy classes were removed</li>
+  <li>Only 200kbs, irrelevant and heavy classes are not used</li>
+  <li>Add slowness and it doesn't cancel PlayerMoveEvent</li>
   <li>And a lot of other features, try it!</li>
 </ul>
   
