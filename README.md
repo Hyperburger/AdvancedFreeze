@@ -16,7 +16,7 @@ Supported Minecraft versions: <strong>1.8.8, 1.12.2, 1.16.5, 1.17.x</strong>
   <li>You can set a command in case the player quits</li>
   <li>Sends titles onFreeze to the staffer and onUnfreeze to the target with Packets</li>
   <li>Optimized because it doesn't use PlayerMoveEvent</li>
-  <li>From 400kb to 280kb also with more features</li>
+  <li>From 400kb to 220kb also with more features</li>
   <li>All the irrelevant and heavy classes are not used</li>
   <li>And a lot of other features, try it!</li>
 </ul>
